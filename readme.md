@@ -1,1 +1,1 @@
-Salam,bu menim pythonda  son proyektimdi.
+Salam,tag elave ederken "pip install dajngo-taggit" ile baslamalisiniz!
